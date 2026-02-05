@@ -1,0 +1,5 @@
+{
+  "name": "Safe Start",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu",
+  "features": {}
+}
